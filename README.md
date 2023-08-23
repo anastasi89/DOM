@@ -1,3 +1,3 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/v74aso1ugl9af52r?svg=true)](https://ci.appveyor.com/project/anastasi89/2-dom)
+[![Build status](https://ci.appveyor.com/api/projects/status/eu0anu9wmew62ltq?svg=true)](https://ci.appveyor.com/project/anastasi89/dom)
 
-https://anastasi89.github.io/2.DOM
+https://anastasi89.github.io/DOM
